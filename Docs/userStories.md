@@ -1,8 +1,6 @@
 ## User Stories 
 
 
-
-
 |En tant que ...|je veux ...|Afin de ...||
 |-|-|-|-|
 |Visiteur|Accéder a la liste des categories|voir la liste des livres selon une categories|
