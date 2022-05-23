@@ -7,7 +7,7 @@
 |book_identifier|INT|PRIMARY KEY, NOT NULL, UNSIGNED, AUTO_INCREMENT|Book's ID|
 |isbn|VARCHAR(20)|NOT NULL|Book's ISBN|
 |title|VARCHAR(255)|NOT NULL|Book's title|
-|price|DOUBLE|NOT NULL, UNSIGNED|Book's price|
+|price|DOUBLES|NOT NULL, UNSIGNED|Book's price|
 |picture|VARCHAR(255)||Book's cover|
 |summary|VARCHAR(255)||Book's summary|
 |editor|VARCHAR(255)|NOT NULL|Book's editor|
